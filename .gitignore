@@ -1,0 +1,22 @@
+# Visual Studio cache and settings
+.vs/
+*.user
+*.aps
+*.suo
+*.suo.tmp
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+x64/
+Debug/
+Release/
+CppWinFo.A3D2F7BD/
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.pdb
+*.ilk
+*.idb
+*.exe
